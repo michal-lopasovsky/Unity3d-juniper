@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=texture_exporter
+X-Python-2-Compatible=false
+X-Krita-Manual=texture_exporter_Manual.html
+Name=Texture Exporter
+Comment=Packs layers into correct RGBA channels and exports to TGA.
